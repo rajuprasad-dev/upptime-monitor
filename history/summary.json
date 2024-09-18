@@ -22,10 +22,10 @@
     "url": "https://www.mumbaimoments.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.mumbaimoments.com.ico",
     "slug": "mumbai-moments",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1757,
@@ -33,14 +33,16 @@
     "timeWeek": 1804,
     "timeMonth": 1757,
     "timeYear": 1757,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-18": 1
+    }
   },
   {
     "name": "Epic Mumbai Tours",
     "url": "https://www.epicmumbaitours.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.epicmumbaitours.com.ico",
     "slug": "epic-mumbai-tours",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -52,6 +54,7 @@
     "timeMonth": 1596,
     "timeYear": 1596,
     "dailyMinutesDown": {
+      "2024-09-18": 0,
       "2024-09-07": 15
     }
   },
