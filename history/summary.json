@@ -10,11 +10,11 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 982,
-    "timeDay": 1014,
-    "timeWeek": 1038,
-    "timeMonth": 982,
-    "timeYear": 982,
+    "time": 978,
+    "timeDay": 959,
+    "timeWeek": 1009,
+    "timeMonth": 978,
+    "timeYear": 978,
     "dailyMinutesDown": {
       "2024-09-24": 19
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1762,
-    "timeDay": 1841,
-    "timeWeek": 1761,
-    "timeMonth": 1762,
-    "timeYear": 1762,
+    "time": 1759,
+    "timeDay": 1680,
+    "timeWeek": 1763,
+    "timeMonth": 1759,
+    "timeYear": 1759,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 1610,
-    "timeDay": 1725,
-    "timeWeek": 1617,
-    "timeMonth": 1610,
-    "timeYear": 1610,
+    "time": 1614,
+    "timeDay": 1707,
+    "timeWeek": 1651,
+    "timeMonth": 1614,
+    "timeYear": 1614,
     "dailyMinutesDown": {
       "2024-09-07": 15
     }
@@ -63,16 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.intorspace.com.ico",
     "slug": "intorspace",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 1332,
-    "timeDay": 1346,
-    "timeWeek": 1322,
-    "timeMonth": 1332,
-    "timeYear": 1332,
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 1329,
+    "timeDay": 1249,
+    "timeWeek": 1315,
+    "timeMonth": 1329,
+    "timeYear": 1329,
     "dailyMinutesDown": {
       "2024-09-12": 23
     }
