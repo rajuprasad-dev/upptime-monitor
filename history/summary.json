@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rajuprasad.com.ico",
     "slug": "raju-prasad",
     "status": "up",
-    "uptime": "92.88%",
+    "uptime": "93.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "87.96%",
-    "uptimeYear": "92.88%",
+    "uptimeYear": "93.00%",
     "time": 1039,
     "timeDay": 1026,
     "timeWeek": 936,
@@ -31,10 +31,10 @@
     "url": "https://www.mumbaimoments.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.mumbaimoments.com.ico",
     "slug": "mumbai-moments",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1788,
@@ -42,16 +42,18 @@
     "timeWeek": 1814,
     "timeMonth": 1827,
     "timeYear": 1788,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-29": 1
+    }
   },
   {
     "name": "Epic Mumbai Tours",
     "url": "https://www.epicmumbaitours.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.epicmumbaitours.com.ico",
     "slug": "epic-mumbai-tours",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -61,6 +63,7 @@
     "timeMonth": 1768,
     "timeYear": 1694,
     "dailyMinutesDown": {
+      "2024-10-29": 0,
       "2024-09-07": 15
     }
   },
@@ -69,7 +72,7 @@
     "url": "https://www.intorspace.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.intorspace.com.ico",
     "slug": "intorspace",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -81,6 +84,7 @@
     "timeMonth": 1373,
     "timeYear": 1348,
     "dailyMinutesDown": {
+      "2024-10-29": 0,
       "2024-09-12": 23
     }
   }
