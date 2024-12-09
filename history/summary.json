@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rajuprasad.com.ico",
     "slug": "raju-prasad",
     "status": "up",
-    "uptime": "95.86%",
-    "uptimeDay": "99.71%",
+    "uptime": "95.90%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.87%",
     "uptimeMonth": "99.59%",
-    "uptimeYear": "95.86%",
+    "uptimeYear": "95.90%",
     "time": 1179,
-    "timeDay": 1021,
-    "timeWeek": 937,
+    "timeDay": 1289,
+    "timeWeek": 927,
     "timeMonth": 1367,
     "timeYear": 1179,
     "dailyMinutesDown": {
@@ -56,7 +56,7 @@
     "url": "https://www.epicmumbaitours.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.epicmumbaitours.com.ico",
     "slug": "epic-mumbai-tours",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -68,6 +68,7 @@
     "timeMonth": 2139,
     "timeYear": 1841,
     "dailyMinutesDown": {
+      "2024-12-09": 0,
       "2024-09-07": 15
     }
   },
