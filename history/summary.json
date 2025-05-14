@@ -49,12 +49,12 @@
     "uptime": "98.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.45%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.04%",
     "time": 2653,
     "timeDay": 21522,
     "timeWeek": 5529,
-    "timeMonth": 3356,
+    "timeMonth": 3366,
     "timeYear": 2653,
     "dailyMinutesDown": {
       "2025-04-14": 297,
@@ -78,12 +78,12 @@
     "uptime": "98.05%",
     "uptimeDay": "98.54%",
     "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.40%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "98.05%",
     "time": 2021,
     "timeDay": 14578,
     "timeWeek": 5022,
-    "timeMonth": 2632,
+    "timeMonth": 2639,
     "timeYear": 2021,
     "dailyMinutesDown": {
       "2025-05-13": 21,
@@ -103,9 +103,9 @@
     "url": "https://www.intorspace.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.intorspace.com.ico",
     "slug": "intorspace",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -115,6 +115,7 @@
     "timeMonth": 1779,
     "timeYear": 1438,
     "dailyMinutesDown": {
+      "2025-05-14": 0,
       "2024-09-12": 23
     }
   }
