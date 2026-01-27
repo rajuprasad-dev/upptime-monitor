@@ -12,7 +12,7 @@
     "uptimeYear": "98.54%",
     "time": 1150,
     "timeDay": 965,
-    "timeWeek": 997,
+    "timeWeek": 994,
     "timeMonth": 1089,
     "timeYear": 1150,
     "dailyMinutesDown": {
@@ -73,18 +73,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mumbaimoments.com.ico",
     "slug": "mumbai-moments",
     "status": "up",
-    "uptime": "98.97%",
-    "uptimeDay": "94.76%",
-    "uptimeWeek": "94.65%",
-    "uptimeMonth": "95.57%",
-    "uptimeYear": "98.57%",
+    "uptime": "98.96%",
+    "uptimeDay": "95.64%",
+    "uptimeWeek": "94.77%",
+    "uptimeMonth": "95.60%",
+    "uptimeYear": "98.56%",
     "time": 3056,
     "timeDay": 2860,
     "timeWeek": 2925,
     "timeMonth": 3089,
     "timeYear": 3231,
     "dailyMinutesDown": {
-      "2026-01-26": 76,
+      "2026-01-26": 63,
       "2026-01-25": 84,
       "2026-01-24": 278,
       "2026-01-23": 43,
@@ -129,7 +129,7 @@
       "2025-12-04": 131,
       "2025-12-03": 16,
       "2025-11-29": 56,
-      "2025-11-28": 59
+      "2025-11-28": 108
     }
   },
   {
@@ -139,9 +139,9 @@
     "slug": "epic-mumbai-tours",
     "status": "up",
     "uptime": "98.97%",
-    "uptimeDay": "94.85%",
-    "uptimeWeek": "94.71%",
-    "uptimeMonth": "95.70%",
+    "uptimeDay": "95.70%",
+    "uptimeWeek": "94.83%",
+    "uptimeMonth": "95.73%",
     "uptimeYear": "98.57%",
     "time": 2230,
     "timeDay": 2147,
@@ -149,7 +149,7 @@
     "timeMonth": 2342,
     "timeYear": 2313,
     "dailyMinutesDown": {
-      "2026-01-26": 74,
+      "2026-01-26": 62,
       "2026-01-25": 82,
       "2026-01-24": 277,
       "2026-01-23": 43,
@@ -193,7 +193,7 @@
       "2025-12-04": 129,
       "2025-12-03": 16,
       "2025-11-29": 56,
-      "2025-11-28": 57
+      "2025-11-28": 105
     }
   },
   {
@@ -202,18 +202,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.intorspace.com.ico",
     "slug": "intorspace",
     "status": "down",
-    "uptime": "56.36%",
+    "uptime": "56.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "39.44%",
+    "uptimeYear": "39.42%",
     "time": 1353,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1323,
     "dailyMinutesDown": {
-      "2026-01-26": 1408,
+      "2026-01-27": 64,
+      "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
