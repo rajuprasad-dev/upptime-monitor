@@ -79,19 +79,19 @@
     "url": "https://www.mumbaimoments.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.mumbaimoments.com.ico",
     "slug": "mumbai-moments",
-    "status": "up",
+    "status": "down",
     "uptime": "98.36%",
-    "uptimeDay": "95.20%",
+    "uptimeDay": "95.15%",
     "uptimeWeek": "93.99%",
     "uptimeMonth": "87.81%",
-    "uptimeYear": "97.53%",
-    "time": 3226,
+    "uptimeYear": "97.54%",
+    "time": 3228,
     "timeDay": 2893,
     "timeWeek": 2612,
     "timeMonth": 3563,
     "timeYear": 3389,
     "dailyMinutesDown": {
-      "2026-03-08": 69,
+      "2026-03-08": 70,
       "2026-03-07": 193,
       "2026-03-06": 132,
       "2026-03-05": 60,
@@ -130,7 +130,7 @@
       "2026-01-26": 63,
       "2026-01-25": 84,
       "2026-01-24": 278,
-      "2026-01-23": 43
+      "2026-01-23": 18
     }
   },
   {
@@ -150,7 +150,7 @@
     "timeMonth": 3508,
     "timeYear": 2503,
     "dailyMinutesDown": {
-      "2026-03-08": 1186,
+      "2026-03-08": 1198,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
@@ -229,7 +229,7 @@
     "timeMonth": 0,
     "timeYear": 1310,
     "dailyMinutesDown": {
-      "2026-03-08": 1186,
+      "2026-03-08": 1198,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
