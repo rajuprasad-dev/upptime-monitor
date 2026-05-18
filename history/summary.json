@@ -4,18 +4,19 @@
     "url": "https://www.rajuprasad.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.rajuprasad.com.ico",
     "slug": "raju-prasad",
-    "status": "up",
-    "uptime": "97.69%",
-    "uptimeDay": "86.25%",
-    "uptimeWeek": "88.67%",
+    "status": "down",
+    "uptime": "97.70%",
+    "uptimeDay": "86.21%",
+    "uptimeWeek": "88.66%",
     "uptimeMonth": "61.87%",
     "uptimeYear": "96.10%",
-    "time": 1324,
-    "timeDay": 896,
-    "timeWeek": 2285,
-    "timeMonth": 2000,
+    "time": 1323,
+    "timeDay": 928,
+    "timeWeek": 2391,
+    "timeMonth": 2026,
     "timeYear": 1303,
     "dailyMinutesDown": {
+      "2026-05-18": 1,
       "2026-05-17": 198,
       "2026-05-16": 190,
       "2026-05-15": 55,
@@ -89,8 +90,7 @@
       "2026-01-26": 56,
       "2026-01-24": 162,
       "2026-01-22": 24,
-      "2026-01-21": 24,
-      "2026-01-19": 29
+      "2026-01-21": 24
     }
   },
   {
@@ -104,11 +104,11 @@
     "uptimeWeek": "96.10%",
     "uptimeMonth": "93.17%",
     "uptimeYear": "98.58%",
-    "time": 3299,
-    "timeDay": 3072,
-    "timeWeek": 3486,
-    "timeMonth": 3576,
-    "timeYear": 3351,
+    "time": 3302,
+    "timeDay": 3628,
+    "timeWeek": 3571,
+    "timeMonth": 3580,
+    "timeYear": 3353,
     "dailyMinutesDown": {
       "2026-05-17": 53,
       "2026-05-16": 54,
@@ -175,9 +175,9 @@
     "uptimeMonth": "93.32%",
     "uptimeYear": "83.78%",
     "time": 2778,
-    "timeDay": 2013,
-    "timeWeek": 2158,
-    "timeMonth": 2282,
+    "timeDay": 1997,
+    "timeWeek": 2152,
+    "timeMonth": 2272,
     "timeYear": 2893,
     "dailyMinutesDown": {
       "2026-05-17": 48,
@@ -287,7 +287,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.intorspace.com.ico",
     "slug": "intorspace",
     "status": "down",
-    "uptime": "46.24%",
+    "uptime": "46.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -298,7 +298,8 @@
     "timeMonth": 0,
     "timeYear": 846,
     "dailyMinutesDown": {
-      "2026-05-17": 1296,
+      "2026-05-18": 6,
+      "2026-05-17": 1440,
       "2026-05-16": 1440,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
@@ -628,8 +629,7 @@
       "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
-      "2025-05-19": 1440,
-      "2025-05-18": 1440
+      "2025-05-19": 1440
     }
   }
 ]
