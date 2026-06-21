@@ -107,15 +107,15 @@
     "url": "https://www.mumbaimoments.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.mumbaimoments.com.ico",
     "slug": "mumbai-moments",
-    "status": "down",
+    "status": "up",
     "uptime": "98.51%",
-    "uptimeDay": "79.36%",
+    "uptimeDay": "73.91%",
     "uptimeWeek": "65.19%",
-    "uptimeMonth": "78.32%",
-    "uptimeYear": "97.34%",
+    "uptimeMonth": "78.14%",
+    "uptimeYear": "97.33%",
     "time": 3316,
-    "timeDay": 3835,
-    "timeWeek": 3242,
+    "timeDay": 3529,
+    "timeWeek": 3241,
     "timeMonth": 3234,
     "timeYear": 3367,
     "dailyMinutesDown": {
@@ -174,7 +174,7 @@
       "2026-06-18": 627,
       "2026-06-19": 61,
       "2026-06-20": 303,
-      "2026-06-21": 297
+      "2026-06-21": 376
     }
   },
   {
@@ -182,17 +182,17 @@
     "url": "https://www.epicmumbaitours.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.epicmumbaitours.com.ico",
     "slug": "epic-mumbai-tours",
-    "status": "down",
-    "uptime": "92.25%",
-    "uptimeDay": "80.02%",
-    "uptimeWeek": "65.90%",
-    "uptimeMonth": "78.89%",
-    "uptimeYear": "86.14%",
+    "status": "up",
+    "uptime": "92.24%",
+    "uptimeDay": "74.57%",
+    "uptimeWeek": "65.91%",
+    "uptimeMonth": "78.71%",
+    "uptimeYear": "86.12%",
     "time": 2753,
-    "timeDay": 2204,
-    "timeWeek": 2165,
-    "timeMonth": 2178,
-    "timeYear": 2872,
+    "timeDay": 2083,
+    "timeWeek": 2155,
+    "timeMonth": 2174,
+    "timeYear": 2871,
     "dailyMinutesDown": {
       "2026-02-26": 57,
       "2026-02-27": 77,
@@ -288,7 +288,7 @@
       "2026-06-18": 617,
       "2026-06-19": 56,
       "2026-06-20": 289,
-      "2026-06-21": 288
+      "2026-06-21": 366
     }
   },
   {
@@ -333,7 +333,7 @@
       "2025-07-14": 113,
       "2025-08-03": 16,
       "2025-08-05": 70,
-      "2026-06-21": 1228,
+      "2026-06-21": 1307,
       "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
