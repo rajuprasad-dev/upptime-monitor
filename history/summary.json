@@ -6,12 +6,12 @@
     "slug": "raju-prasad",
     "status": "down",
     "uptime": "95.59%",
-    "uptimeDay": "84.64%",
-    "uptimeWeek": "85.88%",
-    "uptimeMonth": "48.81%",
+    "uptimeDay": "83.70%",
+    "uptimeWeek": "85.54%",
+    "uptimeMonth": "48.80%",
     "uptimeYear": "91.40%",
     "time": 1303,
-    "timeDay": 973,
+    "timeDay": 972,
     "timeWeek": 998,
     "timeMonth": 1077,
     "timeYear": 1308,
@@ -106,7 +106,7 @@
       "2026-08-17": 67,
       "2026-08-18": 186,
       "2026-08-19": 224,
-      "2026-08-20": 0
+      "2026-08-20": 34
     }
   },
   {
@@ -123,7 +123,7 @@
     "time": 3335,
     "timeDay": 1851,
     "timeWeek": 2677,
-    "timeMonth": 2791,
+    "timeMonth": 2827,
     "timeYear": 3356,
     "dailyMinutesDown": {
       "2026-04-12": 82,
@@ -205,7 +205,7 @@
     "time": 2766,
     "timeDay": 2939,
     "timeWeek": 2566,
-    "timeMonth": 2106,
+    "timeMonth": 2085,
     "timeYear": 2888,
     "dailyMinutesDown": {
       "2026-04-12": 156,
@@ -289,7 +289,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-20": 4,
+      "2026-08-20": 38,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
