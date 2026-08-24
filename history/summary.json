@@ -4,19 +4,18 @@
     "url": "https://www.rajuprasad.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.rajuprasad.com.ico",
     "slug": "raju-prasad",
-    "status": "up",
-    "uptime": "97.29%",
-    "uptimeDay": "84.78%",
-    "uptimeWeek": "86.10%",
+    "status": "down",
+    "uptime": "97.31%",
+    "uptimeDay": "84.74%",
+    "uptimeWeek": "86.09%",
     "uptimeMonth": "47.21%",
-    "uptimeYear": "94.67%",
+    "uptimeYear": "94.72%",
     "time": 1298,
     "timeDay": 3351,
-    "timeWeek": 1534,
+    "timeWeek": 1550,
     "timeMonth": 1377,
     "timeYear": 1336,
     "dailyMinutesDown": {
-      "2026-05-25": 276,
       "2026-05-26": 401,
       "2026-05-27": 87,
       "2026-05-30": 59,
@@ -80,7 +79,7 @@
       "2026-08-21": 89,
       "2026-08-22": 186,
       "2026-08-23": 165,
-      "2026-08-24": 219
+      "2026-08-24": 220
     }
   },
   {
@@ -96,7 +95,7 @@
     "uptimeYear": "95.68%",
     "time": 3337,
     "timeDay": 3813,
-    "timeWeek": 2681,
+    "timeWeek": 2864,
     "timeMonth": 3052,
     "timeYear": 3361,
     "dailyMinutesDown": {
@@ -178,7 +177,7 @@
     "uptimeYear": "95.73%",
     "time": 2771,
     "timeDay": 2755,
-    "timeWeek": 2750,
+    "timeWeek": 2749,
     "timeMonth": 2110,
     "timeYear": 2892,
     "dailyMinutesDown": {
@@ -263,7 +262,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-24": 1406,
+      "2026-08-24": 1414,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
