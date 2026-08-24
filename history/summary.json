@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rajuprasad.com.ico",
     "slug": "raju-prasad",
     "status": "down",
-    "uptime": "97.23%",
-    "uptimeDay": "86.69%",
-    "uptimeWeek": "86.93%",
-    "uptimeMonth": "47.52%",
-    "uptimeYear": "94.56%",
+    "uptime": "97.26%",
+    "uptimeDay": "86.53%",
+    "uptimeWeek": "87.20%",
+    "uptimeMonth": "47.46%",
+    "uptimeYear": "94.63%",
     "time": 1274,
-    "timeDay": 967,
-    "timeWeek": 1216,
-    "timeMonth": 1182,
+    "timeDay": 990,
+    "timeWeek": 1218,
+    "timeMonth": 1181,
     "timeYear": 1312,
     "dailyMinutesDown": {
-      "2026-05-20": 372,
       "2026-05-21": 214,
       "2026-05-23": 75,
       "2026-05-24": 57,
@@ -84,7 +83,7 @@
       "2026-08-21": 89,
       "2026-08-22": 186,
       "2026-08-23": 165,
-      "2026-08-24": 81
+      "2026-08-24": 108
     }
   },
   {
@@ -256,7 +255,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.intorspace.com.ico",
     "slug": "intorspace",
     "status": "down",
-    "uptime": "39.87%",
+    "uptime": "39.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -267,7 +266,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-24": 712,
+      "2026-08-24": 904,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
