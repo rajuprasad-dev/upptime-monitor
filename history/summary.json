@@ -4,19 +4,18 @@
     "url": "https://www.rajuprasad.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.rajuprasad.com.ico",
     "slug": "raju-prasad",
-    "status": "up",
-    "uptime": "97.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "89.12%",
-    "uptimeMonth": "46.87%",
-    "uptimeYear": "94.84%",
+    "status": "down",
+    "uptime": "97.40%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "89.56%",
+    "uptimeMonth": "47.04%",
+    "uptimeYear": "94.86%",
     "time": 1311,
     "timeDay": 1003,
-    "timeWeek": 1708,
-    "timeMonth": 1312,
+    "timeWeek": 1743,
+    "timeMonth": 1307,
     "timeYear": 1330,
     "dailyMinutesDown": {
-      "2026-06-05": 90,
       "2026-06-06": 148,
       "2026-06-07": 186,
       "2026-06-09": 174,
@@ -73,7 +72,8 @@
       "2026-08-23": 165,
       "2026-08-24": 235,
       "2026-08-25": 230,
-      "2026-08-26": 234
+      "2026-08-26": 234,
+      "2026-08-29": 1
     }
   },
   {
@@ -85,13 +85,13 @@
     "uptime": "97.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "87.77%",
+    "uptimeMonth": "90.51%",
     "uptimeYear": "95.68%",
     "time": 3338,
     "timeDay": 3631,
-    "timeWeek": 3349,
-    "timeMonth": 3254,
-    "timeYear": 3363,
+    "timeWeek": 3619,
+    "timeMonth": 3319,
+    "timeYear": 3364,
     "dailyMinutesDown": {
       "2026-04-12": 82,
       "2026-04-13": 478,
@@ -167,13 +167,13 @@
     "uptime": "97.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "87.77%",
+    "uptimeMonth": "90.51%",
     "uptimeYear": "95.73%",
     "time": 2772,
     "timeDay": 2690,
-    "timeWeek": 2398,
-    "timeMonth": 2255,
-    "timeYear": 2891,
+    "timeWeek": 2327,
+    "timeMonth": 2310,
+    "timeYear": 2892,
     "dailyMinutesDown": {
       "2026-04-12": 156,
       "2026-04-13": 476,
@@ -245,7 +245,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.intorspace.com.ico",
     "slug": "intorspace",
     "status": "down",
-    "uptime": "39.66%",
+    "uptime": "39.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -256,7 +256,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-28": 473,
+      "2026-08-29": 231,
+      "2026-08-28": 1440,
       "2026-08-27": 1440,
       "2026-08-26": 1440,
       "2026-08-25": 1440,
@@ -619,8 +620,7 @@
       "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
-      "2025-08-30": 1440,
-      "2025-08-29": 1440
+      "2025-08-30": 1440
     }
   }
 ]
