@@ -6,16 +6,17 @@
     "slug": "raju-prasad",
     "status": "up",
     "uptime": "97.39%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "89.43%",
-    "uptimeMonth": "47.01%",
-    "uptimeYear": "94.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "89.56%",
+    "uptimeMonth": "47.05%",
+    "uptimeYear": "94.84%",
     "time": 1311,
     "timeDay": 920,
     "timeWeek": 1718,
     "timeMonth": 1301,
     "timeYear": 1330,
     "dailyMinutesDown": {
+      "2026-06-05": 90,
       "2026-06-06": 148,
       "2026-06-07": 186,
       "2026-06-09": 174,
@@ -72,8 +73,7 @@
       "2026-08-23": 165,
       "2026-08-24": 235,
       "2026-08-25": 230,
-      "2026-08-26": 234,
-      "2026-08-29": 14
+      "2026-08-26": 234
     }
   },
   {
@@ -85,7 +85,7 @@
     "uptime": "97.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.54%",
+    "uptimeMonth": "90.63%",
     "uptimeYear": "95.68%",
     "time": 3337,
     "timeDay": 2592,
@@ -167,7 +167,7 @@
     "uptime": "97.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.54%",
+    "uptimeMonth": "90.63%",
     "uptimeYear": "95.73%",
     "time": 2773,
     "timeDay": 2703,
@@ -256,7 +256,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-29": 245,
+      "2026-08-29": 286,
       "2026-08-28": 1440,
       "2026-08-27": 1440,
       "2026-08-26": 1440,
