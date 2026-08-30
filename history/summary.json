@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "97.39%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.88%",
-    "uptimeMonth": "47.05%",
+    "uptimeWeek": "91.42%",
+    "uptimeMonth": "48.99%",
     "uptimeYear": "94.84%",
     "time": 1311,
-    "timeDay": 836,
-    "timeWeek": 1793,
-    "timeMonth": 1301,
+    "timeDay": 871,
+    "timeWeek": 1781,
+    "timeMonth": 1297,
     "timeYear": 1330,
     "dailyMinutesDown": {
       "2026-06-05": 90,
@@ -82,16 +82,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mumbaimoments.com.ico",
     "slug": "mumbai-moments",
     "status": "down",
-    "uptime": "97.82%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptime": "97.73%",
+    "uptimeDay": "33.62%",
+    "uptimeWeek": "90.52%",
     "uptimeMonth": "91.41%",
-    "uptimeYear": "95.69%",
-    "time": 3334,
-    "timeDay": 937,
-    "timeWeek": 2948,
-    "timeMonth": 3175,
-    "timeYear": 3358,
+    "uptimeYear": "95.51%",
+    "time": 3331,
+    "timeDay": 731,
+    "timeWeek": 2558,
+    "timeMonth": 3170,
+    "timeYear": 3355,
     "dailyMinutesDown": {
       "2026-04-13": 478,
       "2026-04-12": 11,
@@ -156,7 +156,8 @@
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 706,
-      "2026-08-29": 1
+      "2026-08-30": 144,
+      "2026-08-29": 812
     }
   },
   {
@@ -165,16 +166,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.epicmumbaitours.com.ico",
     "slug": "epic-mumbai-tours",
     "status": "down",
-    "uptime": "97.84%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
+    "uptime": "97.75%",
+    "uptimeDay": "33.63%",
+    "uptimeWeek": "90.52%",
     "uptimeMonth": "91.41%",
-    "uptimeYear": "95.74%",
-    "time": 2771,
-    "timeDay": 1562,
-    "timeWeek": 2135,
-    "timeMonth": 2264,
-    "timeYear": 2888,
+    "uptimeYear": "95.56%",
+    "time": 2769,
+    "timeDay": 1286,
+    "timeWeek": 1933,
+    "timeMonth": 2277,
+    "timeYear": 2886,
     "dailyMinutesDown": {
       "2026-04-12": 115,
       "2026-04-13": 476,
@@ -238,7 +239,8 @@
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 706,
-      "2026-08-29": 1
+      "2026-08-30": 144,
+      "2026-08-29": 812
     }
   },
   {
@@ -247,7 +249,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.intorspace.com.ico",
     "slug": "intorspace",
     "status": "down",
-    "uptime": "39.60%",
+    "uptime": "39.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -258,7 +260,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-29": 629,
+      "2026-08-30": 144,
+      "2026-08-29": 1440,
       "2026-08-28": 1440,
       "2026-08-27": 1440,
       "2026-08-26": 1440,
@@ -621,8 +624,7 @@
       "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
-      "2025-08-31": 1440,
-      "2025-08-30": 1440
+      "2025-08-31": 1440
     }
   }
 ]
